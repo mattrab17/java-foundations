@@ -42,3 +42,4 @@ Time complexity?
   remove()
   -> 1.ArrayList removes the object from the array
      2.every object to the right of the removed index is shifted left []<------2<------3 to close the gap
+  -> O(n)
